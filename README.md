@@ -1,5 +1,5 @@
 # sublimeonwindow
-#### These bat files will simply add or remove window context menu to allow user to open file with sublime when right click.
+#### These bat files will simply add or remove window context menu to allow user to open file with sublime on right click.
 
 --------------------------------------------------------------------
 
